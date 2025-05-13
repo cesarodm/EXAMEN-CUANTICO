@@ -1,4 +1,3 @@
-# estado_cuantico.py
 
 import math
 
